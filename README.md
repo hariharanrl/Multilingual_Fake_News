@@ -1,4 +1,4 @@
-# Multilinugal_Fake_News
+# Multilingual_Fake_News
 Multilingual Fake News Detection
 
 
